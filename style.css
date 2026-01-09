@@ -45,3 +45,14 @@ img {
 img {
   width: 300px;
 }
+
+.quote {
+  color: red;
+}
+
+#mainquote {
+  border: 2px solid black;
+}
+
+
+
